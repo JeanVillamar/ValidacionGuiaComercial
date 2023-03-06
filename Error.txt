@@ -1,0 +1,239 @@
+Error en código producto: 4500, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 13710, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 13710, el porcentaje: 0.3 no existe
+Error en código producto: 13710, el porcentaje: 0.5 no existe
+Error en código producto: 13710, el porcentaje: 0.7 no existe
+Error en código producto: 13710, el porcentaje: 0.3 no existe
+Error en código producto: 23417, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 24034, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 24034, el porcentaje: 0.5 no existe
+Error en código producto: 27497, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 37091, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 37091, el porcentaje: 0.5 no existe
+Error en código producto: 37103, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 37103, el porcentaje: 0.5 no existe
+Error en código producto: 37105, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 42550, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 42550, el porcentaje: 0.5 no existe
+Error en código producto: 51144, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 51144, el porcentaje: 0.5 no existe
+Error en código producto: 63654, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 66361, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 72555, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 72555, el porcentaje: 0.5 no existe
+Error en código producto: 83249, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 83249, el porcentaje: 0.5 no existe
+Error en código producto: 86196, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 86196, el porcentaje: 0.5 no existe
+Error en código producto: 102692, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 103855, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 107984, el porcentaje: 0.4 no existe
+Error en código producto: 107984, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 107984, el porcentaje: 0.5 no existe
+Error en código producto: 107984, el porcentaje: 0.5 no existe
+Error en código producto: 102864, el porcentaje: 0.5 no existe
+Error en código producto: 102865, el porcentaje: 0.5 no existe
+Error en código producto: 102866, el porcentaje: 0.5 no existe
+Error en código producto: 107985, el porcentaje: 0.2 no existe
+Error en código producto: 107985, No coinciden los pocentajes: PHARMACYS --> 0.5
+Error en código producto: 2274, el porcentaje: 0.33 no existe
+Error en código producto: 103066, el porcentaje: 0.25 no existe
+Error en código producto: 11852, el porcentaje: 0.33 no existe
+Error en código producto: 103443, el porcentaje: 0.3 no existe
+Error en código producto: 64388, el porcentaje: 0.4 no existe
+Error en código producto: 77617, el porcentaje: 0.4 no existe
+Error en código producto: 85026, el porcentaje: 0.35 no existe
+Error en código producto: 16627, el porcentaje: 0.25 no existe
+Error en código producto: 105524, el porcentaje: 0.6 no existe
+Error en código producto: 108512, el porcentaje: 0.6 no existe
+Error en código producto: 108513, el porcentaje: 0.6 no existe
+Error en código producto: 108094, el porcentaje: 0.4 no existe
+Error en código producto: 109931, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 109931, No coinciden los pocentajes: COMUNITARIAS --> 0.2
+Error en código producto: 46161, el porcentaje: 0.25 no existe
+Error en código producto: 27296, No coinciden los pocentajes: COMUNITARIAS --> 0.25
+Error en código producto: 98454, No coinciden los pocentajes: COMUNITARIAS --> 0.25
+Error en código producto: 98455, No coinciden los pocentajes: COMUNITARIAS --> 0.25
+Error en código producto: 98456, No coinciden los pocentajes: COMUNITARIAS --> 0.25
+Error en código producto: 106456, el porcentaje: 0.25 no existe
+Error en código producto: 106456, el porcentaje: 0.5 no existe
+Error en código producto: 106458, el porcentaje: 0.25 no existe
+Error en código producto: 4622, No coinciden los pocentajes: CRUZ AZUL --> 0.15
+Error en código producto: 4622, No coinciden los pocentajes: COMUNITARIAS --> 0.15
+Error en código producto: 13910, No coinciden los pocentajes: CRUZ AZUL --> 0.15
+Error en código producto: 13910, No coinciden los pocentajes: COMUNITARIAS --> 0.15
+Error en código producto: 991, el porcentaje: 0.4 no existe
+Error en código producto: 22053, el porcentaje: 0.35 no existe
+Error en código producto: 58770, el porcentaje: 0.35 no existe
+Error en código producto: 91201, el porcentaje: 0.35 no existe
+Error en código producto: 91543, el porcentaje: 0.3 no existe
+Error en código producto: 103142, el porcentaje: 0.4 no existe
+Error en código producto: 23546, No coinciden los pocentajes: PHARMACYS --> 0.25
+Error en código producto: 23546, el porcentaje: 0.35 no existe
+Error en código producto: 34217, No coinciden los pocentajes: PHARMACYS --> 0.25
+Error en código producto: 83264, No coinciden los pocentajes: PHARMACYS --> 0.25
+Error en código producto: 92521, No coinciden los pocentajes: PHARMACYS --> 0.25
+Error en código producto: 100987, No coinciden los pocentajes: PHARMACYS --> 0.25
+Error en código producto: 103368, No coinciden los pocentajes: PHARMACYS --> 0.25
+Error en código producto: 107619, No coinciden los pocentajes: PHARMACYS --> 0.25
+Error en código producto: 107630, No coinciden los pocentajes: PHARMACYS --> 0.25
+Error en código producto: 108019, No coinciden los pocentajes: PHARMACYS --> 0.25
+Error en código producto: 108019, el porcentaje: 0.45 no existe
+Error en código producto: 108020, No coinciden los pocentajes: PHARMACYS --> 0.25
+Error en código producto: 108292, No coinciden los pocentajes: PHARMACYS --> 0.25
+Error en código producto: 109027, No coinciden los pocentajes: PHARMACYS --> 0.25
+Error en código producto: 109632, No coinciden los pocentajes: PHARMACYS --> 0.25
+Error en código producto: 4714, No coinciden los pocentajes: CRUZ AZUL --> 0.3
+Error en código producto: 4714, No coinciden los pocentajes: COMUNITARIAS --> 0.3
+Error en código producto: 13700, No coinciden los pocentajes: CRUZ AZUL --> 0.3
+Error en código producto: 13700, No coinciden los pocentajes: COMUNITARIAS --> 0.3
+Error en código producto: 37657, No coinciden los pocentajes: CRUZ AZUL --> 0.3
+Error en código producto: 37657, No coinciden los pocentajes: COMUNITARIAS --> 0.3
+Error en código producto: 91121, No coinciden los pocentajes: CRUZ AZUL --> 0.3
+Error en código producto: 91121, No coinciden los pocentajes: COMUNITARIAS --> 0.3
+Error en código producto: 48789, No coinciden los pocentajes: CRUZ AZUL --> 0.3
+Error en código producto: 104977, No coinciden los pocentajes: PHARMACYS --> 0.5
+Error en código producto: 105723, el porcentaje: 0.4 no existe
+Error en código producto: 105723, el porcentaje: 0.5 no existe
+Error en código producto: 106938, el porcentaje: 0.4 no existe
+Error en código producto: 108823, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 108823, No coinciden los pocentajes: COMUNITARIAS --> 0.2
+Error en código producto: 13453, el porcentaje: 0.25 no existe
+Error en código producto: 13453, el porcentaje: 0.35 no existe
+Error en código producto: 13453, el porcentaje: 0.4 no existe
+Error en código producto: 28446, el porcentaje: 0.27 no existe
+Error en código producto: 96936, el porcentaje: 0.25 no existe
+Error en código producto: 96936, el porcentaje: 0.35 no existe
+Error en código producto: 107992, el porcentaje: 0.2 no existe
+Error en código producto: 107992, No coinciden los pocentajes: PHARMACYS --> 0.35
+Error en código producto: 99941, el porcentaje: 0.2 no existe
+Error en código producto: 104349, el porcentaje: 0.2 no existe
+Error en código producto: 103505, el porcentaje: 0.25 no existe
+Error en código producto: 78316, el porcentaje: 0.25 no existe
+Error en código producto: 103926, el porcentaje: 0.3 no existe
+Error en código producto: 100319, el porcentaje: 0.4 no existe
+Error en código producto: 102859, el porcentaje: 0.35 no existe
+Error en código producto: 105701, el porcentaje: 0.25 no existe
+Error en código producto: 105701, el porcentaje: 0.4 no existe
+Error en código producto: 63094, el porcentaje: 0.4 no existe
+Error en código producto: 110002, No coinciden los pocentajes: CRUZ AZUL --> 0.5
+Error en código producto: 30567, el porcentaje: 0.35 no existe
+Error en código producto: 30567, No coinciden los pocentajes: DROMAYOR --> 0.25
+Error en código producto: 91805, el porcentaje: 0.5 no existe
+Error en código producto: 91805, el porcentaje: 0.35 no existe
+Error en código producto: 108691, el porcentaje: 0.25 no existe
+Error en código producto: 109260, el porcentaje: 0.2 no existe
+Error en código producto: 39197, el porcentaje: 0.3 no existe
+Error en código producto: 84036, el porcentaje: 0.3 no existe
+Error en código producto: 91345, el porcentaje: 0.35 no existe
+Error en código producto: 98224, el porcentaje: 0.35 no existe
+Error en código producto: 98273, el porcentaje: 0.35 no existe
+Error en código producto: 107275, el porcentaje: 0.45 no existe
+Error en código producto: 108980, el porcentaje: 0.35 no existe
+Error en código producto: 49082, No coinciden los pocentajes: DROMAYOR --> 0.3
+Error en código producto: 106731, No coinciden los pocentajes: DROMAYOR --> 0.3
+Error en código producto: 68373, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 49081, el porcentaje: 0.3 no existe
+Error en código producto: 106728, el porcentaje: 0.3 no existe
+Error en código producto: 104657, el porcentaje: 0.35 no existe
+Error en código producto: 14268, el porcentaje: 0.6 no existe
+Error en código producto: 12798, el porcentaje: 0.2 no existe
+Error en código producto: 12798, No coinciden los pocentajes: PHARMACYS --> 0.4
+Error en código producto: 35052, el porcentaje: 0.3 no existe
+Error en código producto: 66711, el porcentaje: 0.25 no existe
+Error en código producto: 66711, el porcentaje: 0.25 no existe
+Error en código producto: 107169, el porcentaje: 0.5 no existe
+Error en código producto: 48178, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 47285, el porcentaje: 0.2 no existe
+Error en código producto: 47285, No coinciden los pocentajes: CRUZ AZUL --> 0.25
+Error en código producto: 47285, el porcentaje: 0.4 no existe
+Error en código producto: 47285, el porcentaje: 0.4 no existe
+Error en código producto: 49959, el porcentaje: 0.45 no existe
+Error en código producto: 49959, el porcentaje: 0.45 no existe
+Error en código producto: 106500, el porcentaje: 0.4 no existe
+Error en código producto: 105591, No coinciden los pocentajes: PHARMACYS --> 0.25
+Error en código producto: 105591, el porcentaje: 0.45 no existe
+Error en código producto: 108143, No coinciden los pocentajes: PHARMACYS --> 0.3
+Error en código producto: 2402, No coinciden los pocentajes: CRUZ AZUL --> 0.25
+Error en código producto: 106373, No coinciden los pocentajes: CRUZ AZUL --> 0.25
+Error en código producto: 14169, No coinciden los pocentajes: CRUZ AZUL --> 0.25
+Error en código producto: 87841, No coinciden los pocentajes: PHARMACYS --> 0.3
+Error en código producto: 87842, No coinciden los pocentajes: PHARMACYS --> 0.3
+Error en código producto: 108021, No coinciden los pocentajes: PHARMACYS --> 0.3
+Error en código producto: 108576, No coinciden los pocentajes: PHARMACYS --> 0.3
+Error en código producto: 108577, No coinciden los pocentajes: PHARMACYS --> 0.3
+Error en código producto: 89036, No coinciden los pocentajes: PHARMACYS --> 0.3
+Error en código producto: 99836, No coinciden los pocentajes: PHARMACYS --> 0.3
+Error en código producto: 99838, No coinciden los pocentajes: PHARMACYS --> 0.3
+Error en código producto: 89035, el porcentaje: 0.32 no existe
+Error en código producto: 110902, el porcentaje: 0.25 no existe
+Error en código producto: 76558, No coinciden los pocentajes: CRUZ AZUL --> 0.35
+Error en código producto: 78947, el porcentaje: 0.25 no existe
+Error en código producto: 78947, el porcentaje: 0.25 no existe
+Error en código producto: 95865, el porcentaje: 0.25 no existe
+Error en código producto: 95865, el porcentaje: 0.25 no existe
+Error en código producto: 95865, el porcentaje: 0.25 no existe
+Error en código producto: 20450, No coinciden los pocentajes: CRUZ AZUL --> 0.3
+Error en código producto: 110073, el porcentaje: 0.25 no existe
+Error en código producto: 80875, el porcentaje: 0.35 no existe
+Error en código producto: 13738, el porcentaje: 0.2 no existe
+Error en código producto: 13738, el porcentaje: 0.35 no existe
+Error en código producto: 105136, el porcentaje: 0.2 no existe
+Error en código producto: 105255, el porcentaje: 0.2 no existe
+Error en código producto: 105255, el porcentaje: 0.35 no existe
+Error en código producto: 105252, el porcentaje: 0.25 no existe
+Error en código producto: 105253, el porcentaje: 0.25 no existe
+Error en código producto: 106323, el porcentaje: 0.25 no existe
+Error en código producto: 106324, el porcentaje: 0.25 no existe
+Error en código producto: 106325, el porcentaje: 0.25 no existe
+Error en código producto: 106326, el porcentaje: 0.25 no existe
+Error en código producto: 109934, el porcentaje: 0.25 no existe
+Error en código producto: 13227, el porcentaje: 0.4 no existe
+Error en código producto: 13296, el porcentaje: 0.4 no existe
+Error en código producto: 107244, el porcentaje: 0.7 no existe
+Error en código producto: 107675, el porcentaje: 0.4 no existe
+Error en código producto: 17143, el porcentaje: 0.2 no existe
+Error en código producto: 195, el porcentaje: 0.2 no existe
+Error en código producto: 2627, el porcentaje: 0.2 no existe
+Error en código producto: 85023, el porcentaje: 0.2 no existe
+Error en código producto: 103461, el porcentaje: 0.2 no existe
+Error en código producto: 103461, el porcentaje: 0.2 no existe
+Error en código producto: 49106, el porcentaje: 0.25 no existe
+Error en código producto: 4433, No coinciden los pocentajes: DROMAYOR --> 0.2
+Error en código producto: 13045, el porcentaje: 0.35 no existe
+Error en código producto: 105273, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 105273, No coinciden los pocentajes: CRUZ AZUL --> 0.2
+Error en código producto: 105274, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 105274, No coinciden los pocentajes: CRUZ AZUL --> 0.2
+Error en código producto: 105279, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 105279, No coinciden los pocentajes: CRUZ AZUL --> 0.2
+Error en código producto: 105283, No coinciden los pocentajes: CRUZ AZUL --> 0.2
+Error en código producto: 105283, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 105283, No coinciden los pocentajes: CRUZ AZUL --> 0.2
+Error en código producto: 105285, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 105285, No coinciden los pocentajes: CRUZ AZUL --> 0.2
+Error en código producto: 105286, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 105286, No coinciden los pocentajes: CRUZ AZUL --> 0.2
+Error en código producto: 105341, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 105341, No coinciden los pocentajes: CRUZ AZUL --> 0.2
+Error en código producto: 105342, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 105342, No coinciden los pocentajes: CRUZ AZUL --> 0.2
+Error en código producto: 105844, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 105844, No coinciden los pocentajes: CRUZ AZUL --> 0.2
+Error en código producto: 105845, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 105845, No coinciden los pocentajes: CRUZ AZUL --> 0.2
+Error en código producto: 106060, No coinciden los pocentajes: CRUZ AZUL --> 0.2
+Error en código producto: 106060, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 106060, No coinciden los pocentajes: CRUZ AZUL --> 0.2
+Error en código producto: 106061, No coinciden los pocentajes: CRUZ AZUL --> 0.2
+Error en código producto: 106061, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 106061, No coinciden los pocentajes: CRUZ AZUL --> 0.2
+Error en código producto: 108372, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 108372, No coinciden los pocentajes: CRUZ AZUL --> 0.2
+Error en código producto: 108373, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 108373, No coinciden los pocentajes: CRUZ AZUL --> 0.2
+Error en código producto: 1320, No coinciden los pocentajes: PHARMACYS --> 0.2
+Error en código producto: 1320, No coinciden los pocentajes: COMUNITARIAS --> 0.2
+Error en código producto: 108837, el porcentaje: 0.4 no existe
+Error en código producto: 12588, el porcentaje: 0.3 no existe
+Error en código producto: 2490, el porcentaje: 0.35 no existe
